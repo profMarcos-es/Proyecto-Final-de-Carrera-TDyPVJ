@@ -8,6 +8,7 @@
 # GAME DESIGN DOCUMENT (GDD)
 
 **Nombre del Juego:** [Ingresa el nombre del juego]  
+**Versión:** 0.0.0  
 **Fecha de actualización:** [DD/MM/AAAA]
 
 ## Ficha del Grupo
