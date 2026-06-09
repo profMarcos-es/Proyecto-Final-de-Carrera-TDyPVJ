@@ -10,6 +10,16 @@ Este repositorio contiene la plantilla base del **Game Design Document (GDD)** q
 
 ---
 
+## 📌 Control de Versiones del Documento
+
+El GDD es un documento vivo que cambiará a lo largo del desarrollo. Para llevar un control claro en el archivo `GDD.md`, utilizaremos un sistema de versionado numérico de tres partes **(X.Y.Z)**, por ejemplo `Versión: 1.2.0`:
+
+- **X (Versión Mayor):** Modifica este primer número si hay un cambio drástico en la base del juego (ej. cambio de género, reestructuración completa de las mecánicas principales, reinicio del proyecto).
+- **Y (Versión Menor):** Modifica el segundo número cuando agregues contenido nuevo e importante (ej. se añade un nuevo nivel al GDD, se documentan nuevos enemigos, o cambian mecánicas secundarias).
+- **Z (Parche / Revisión):** Modifica el tercer número para correcciones menores (ej. corrección de errores tipográficos, actualización de imágenes, ajustes de redacción).
+
+---
+
 ## 🛠️ Cómo hacer una copia de este proyecto para tu equipo
 
 Para utilizar esta plantilla **NO debes solicitar acceso de edición** a este repositorio. Debes crear tu propia copia siguiendo uno de estos dos métodos:
